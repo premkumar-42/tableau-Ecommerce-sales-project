@@ -1,46 +1,114 @@
-# 🛒 E-Commerce Sales Dashboard | Tableau Project
+# 📊 E-Commerce Sales Dashboard
 
-An interactive sales analytics dashboard built using **Tableau Public**, 
-visualizing key e-commerce business metrics across regions, categories, and time.
+## 📌 Project Overview
 
-## 📊 Live Dashboard
-🔗 [View on Tableau Public](https://public.tableau.com/app/profile/prem.kumar4666/viz/e-commercesalesproject/Dashboard2)
+This project is an interactive **E-Commerce Sales Dashboard** built using **Tableau Public**. The dashboard provides insights into sales performance, profit analysis, customer statistics, order tracking, regional sales comparison, and state-wise sales distribution.
 
----
-
-## 📈 Key Metrics
-| Metric | Value |
-|---|---|
-| 💰 Total Sales | 2.3M |
-| 📦 Total Profit | 286K |
-| 👥 No of Customers | 9,994 |
-| 🧾 No of Orders | 793 |
+The dashboard helps businesses monitor key performance indicators (KPIs) and make data-driven decisions through interactive visualizations.
 
 ---
 
-## 📌 Dashboard Features
-- **KPI Summary** — Sales, Profit, Customers, Orders at a glance
-- **Monthly Sales Trend** — Line chart showing sales performance across months
-- **Sales By Region** — Bar chart comparing Central, East, South, West regions
-- **Sales In States** — US map view showing state-wise sales distribution
-- **Profit By Category** — Category-level profitability breakdown
+## 🚀 Features
+
+### KPI Metrics
+- Total Sales
+- Total Profit
+- Number of Customers
+- Number of Orders
+
+### Visualizations
+- Monthly Sales Trend Analysis
+- Sales by Region
+- State-wise Sales Map
+- Interactive Dashboard Filtering
+
+### Interactive Functionality
+- Click on a state to filter dashboard data
+- Analyze monthly sales performance
+- Compare regional sales performance
+- Dynamic cross-filtering between charts
 
 ---
 
-## 🛠️ Tools Used
-- **Tableau Public** — Data visualization
-- **Sample Superstore Dataset** — Sales data source
+## 🛠️ Tools & Technologies
+
+- Tableau Public
+- Data Visualization
+- Business Intelligence (BI)
+- Dashboard Design
 
 ---
 
-## 🔍 Key Insights
-- Sales peak in **November and December** (holiday season)
-- **West and East** regions outperform Central and South
-- Overall profit margin is healthy at **~12%**
+## 📈 Dashboard Insights
+
+- Track overall sales and profit performance.
+- Analyze customer and order growth.
+- Identify top-performing regions.
+- Understand state-wise sales distribution.
+- Monitor monthly sales trends.
 
 ---
 
-## 👤 Author
-**Prem Kumar**  
-🔗 [Tableau Public Profile](https://public.tableau.com/app/profile/prem.kumar4666)  
-🐙 [GitHub](https://github.com/premkumar-42)
+## 📂 Project Structure
+
+```text
+E-Commerce-Sales-Dashboard/
+│
+├── Screenshots/
+│   ├── dashboard-overview.png
+│   ├── sales-in-georgia.png
+│   └── september-sales.png
+│
+├── Ecommerce_Sales_Dashboard.twbx
+└── README.md
+```
+
+---
+
+## 📷 Dashboard Preview
+
+### Main Dashboard
+
+![Dashboard Overview](Screenshots/dashboard-overview.png)
+
+### State-wise Analysis
+
+![Sales in Georgia](Screenshots/sales-in-georgia.png)
+
+### Monthly Sales Analysis
+
+![September Sales](Screenshots/september-sales.png)
+
+---
+
+## 🎯 Key Learnings
+
+- Tableau Dashboard Development
+- KPI Visualization
+- Geographic Mapping
+- Interactive Dashboard Actions
+- Business Data Analysis
+- Data Storytelling
+
+---
+
+## 🔮 Future Enhancements
+
+- Product Category Analysis
+- Customer Segmentation
+- Profit Forecasting
+- Advanced Filters
+- Sales Prediction Models
+
+---
+
+## 👨‍💻 Author
+
+**Prem Kumar**
+
+- GitHub: https://github.com/yourusername
+- LinkedIn: https://linkedin.com/in/yourprofile
+
+---
+
+⭐ If you found this project useful, please give it a star.
